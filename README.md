@@ -10,6 +10,29 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: my email is sereneplmr@gmail.com . I'm always looking forward to connecting and collaborating with new individuals.
 - ⚡ Fun fact: I've always had a deep love for nature since I was young. I grew up surrounded by forests and made it a point to go on hikes whenever I could. After a busy week, spending time in nature always leaves me feeling refreshed and calm. Sitting alone on a trail, with only the sounds of birds, flowing water, and the wind, provides me with a sense of comfort and creative inspiration. From mental clarity to just a good exercise, I love being one with Mother Nature.
 
+
+## 🌟 Skills
+
+- Programming Languages: Python, C++, SQL, HTML/CSS, JavaScript (basic)
+- Technologies: GitHub Actions
+- AI/ML Tools: Scikit-learn, TensorFlow, Matplotlib, OpenAI API
+- Frameworks & Platforms: Next.js, React, FastAPI, Jupyter Notebook, VS Code, IBM
+- Databases: Basic proficiency in SQL (relational databases) – experience with query writing, table creation, and data retrieval.
+- Tools: GitHub, Git, Plotly Dash, GitHub Copilot, Claude, ChatGPT
+
+  
+## 🚀 Projects
+
+- [Data Science Capstone](https://github.com/serene4444/Data-Science-Capstone)
+- [Predicting Stock Prices](https://github.com/serene4444/Prediciting-Stock-Prices)
+- [Data Analysis Using Python](https://github.com/serene4444/COVID19-Data-Analysis-Using-Python)
+- [GenAI Chatbots Project](https://github.com/serene4444/GenAI-Chatbots-Project)
+- [Python Project for Data Science](https://github.com/serene4444/Python-Project-for-Data-Science)
+  
+## 🌟 GitHub Stats
+
+![Serene's GitHub stats](https://github-readme-stats.vercel.app/api?username=serene4444&show_icons=true&theme=radical)
+
 <!---
 sereneplummerr/sereneplummerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
