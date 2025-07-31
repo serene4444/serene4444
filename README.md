@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile!
 
+[![IBM Python for Data Science](https://images.credly.com/size/110x110/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png)](https://www.credly.com/badges/79f5a6d2-612e-4ef2-ae20-186168434e42/public_url)
+
+
+
 
 - 👋 Hi, I’m Serene Plummer. I'm a Computer Science student at the University of North Texas, specializing in Python and Machine Learning with Data Analytics. 
 - 👀 I’m interested in preserving the authenticity of human connection and creativity as AI becomes increasingly integrated into education and daily life. My goal is to keep my voice true to myself, not an AI-polished version. Perfection does not mean inauthenticity.   
