@@ -28,6 +28,7 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 
 - [Data Science Capstone](https://github.com/serene4444/Data-Science-Capstone)
+- [HealthCert (Medical Appointment Booking)](https://github.com/serene4444/Medical-Appointment-Booking)
 - [Predicting Stock Prices](https://github.com/serene4444/Prediciting-Stock-Prices)
 - [Data Analysis Using Python](https://github.com/serene4444/COVID19-Data-Analysis-Using-Python)
 - [GenAI Chatbots Project](https://github.com/serene4444/GenAI-Chatbots-Project)
