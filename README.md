@@ -64,7 +64,7 @@ I’ve always had a deep love for nature. Hiking, listening to birds, and sittin
 ## 🌟 GitHub Stats
 
 ![Serene's GitHub stats](https://github-readme-stats.vercel.app/api?username=serene4444&show_icons=true&theme=radical)
-a
+
 <!---
 sereneplummerr/sereneplummerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
