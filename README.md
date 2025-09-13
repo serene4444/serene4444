@@ -8,7 +8,8 @@ Hi, I’m **Serene Plummer** — a Computer Science student at the University of
 My work centers around **Python programming, machine learning, and data analytics**, with a deep interest in preserving human creativity in an AI-driven world.
 
 ### 💼 View My Work  
-🔗 **Portfolio Website:** [serene4444.github.io/SereneP.-Portfolio](https://serene4444.github.io/SereneP.-Portfolio/)  
+🔗 **Portfolio Website:** [link](https://serene4444.github.io/myPortfolio/)
+
 📁 **GitHub Projects:**  
 - [Data Science Capstone](https://github.com/serene4444/Data-Science-Capstone)  
 - [HealthCert (Medical Appointment Booking)](https://github.com/serene4444/Medical-Appointment-Booking)  
