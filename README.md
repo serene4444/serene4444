@@ -12,7 +12,8 @@ My work centers around **Python programming, machine learning, and data analytic
 
 📁 **GitHub Projects:**  
 - [Data Science Capstone](https://github.com/serene4444/Data-Science-Capstone)  
-- [HealthCert (Medical Appointment Booking)](https://github.com/serene4444/Medical-Appointment-Booking)  
+- [HealthCert (Medical Appointment Booking)](https://github.com/serene4444/Medical-Appointment-Booking)
+- [House Price Prediction](https://github.com/serene4444/California-Housing-Price-Prediction)
 - [Predicting Stock Prices](https://github.com/serene4444/Prediciting-Stock-Prices)  
 - [COVID-19 Data Analysis Using Python](https://github.com/serene4444/COVID19-Data-Analysis-Using-Python)  
 - [GenAI Chatbots Project](https://github.com/serene4444/GenAI-Chatbots-Project)  
