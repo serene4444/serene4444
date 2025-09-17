@@ -11,7 +11,7 @@ My work centers around **Python programming, machine learning, and data analytic
 🔗 **Portfolio Website:** [link](https://serene4444.github.io/myPortfolio/)
 
 📁 **GitHub Projects:**  
-- [Data Science Capstone](https://github.com/serene4444/Data-Science-Capstone)  
+- [IBM Data Science Capstone: SpaceX Launch Analysis](https://github.com/serene4444/Data-Science-Capstone)  
 - [HealthCert (Medical Appointment Booking)](https://github.com/serene4444/Medical-Appointment-Booking)
 - [House Price Prediction](https://github.com/serene4444/California-Housing-Price-Prediction)
 - [Predicting Stock Prices](https://github.com/serene4444/Prediciting-Stock-Prices)  
