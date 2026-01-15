@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 
 Hi, I’m **Serene Plummer** — a Computer Science student at the University of North Texas.  
-My work centers around **Python programming, machine learning, and data analytics**, with a deep interest in preserving human creativity in an AI-driven world.
+My work centers around **software engineering, machine learning, and data analytics**, with a deep interest in preserving human creativity in an AI-driven world.
 
 ### 💼 View My Work  
 🔗 **Portfolio Website:** [link](https://serene4444.github.io/myPortfolio/)
