@@ -56,7 +56,10 @@ I am open to professional connections, collaboration opportunities, and project 
 
 ## GitHub Stats
 
-![Serene's GitHub stats](https://github-readme-stats.vercel.app/api?username=serene4444&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serene4444&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Serene's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serene4444&layout=compact&hide_border=true&theme=default" alt="Serene's most used languages" height="165">
+</p>
 
 <!---
 sereneplummerr/sereneplummerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
