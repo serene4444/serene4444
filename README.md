@@ -1,6 +1,6 @@
-## 👨‍💻 About Me
+## About Me
 
-Welcome to my GitHub profile!
+I am **Serene Plummer**, a Computer Science student at the University of North Texas with interests in **software engineering, machine learning, and data analytics**. I am especially motivated by building practical technology that supports human creativity and thoughtful problem-solving.
 
 <a href="https://www.credly.com/badges/79f5a6d2-612e-4ef2-ae20-186168434e42/public_url">
   <img src="https://images.credly.com/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Applied Data Science Capstone" width="110">
@@ -10,67 +10,51 @@ Welcome to my GitHub profile!
   <img src="https://images.credly.com/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras" width="110">
 </a>
 
+## Portfolio
 
-Hi, I’m **Serene Plummer** — a Computer Science student at the University of North Texas.  
-My work centers around **software engineering, machine learning, and data analytics**, with a deep interest in preserving human creativity in an AI-driven world.
+- Portfolio website: [serene4444.github.io/myPortfolio](https://serene4444.github.io/myPortfolio/)
+- GitHub repositories: [github.com/serene4444?tab=repositories](https://github.com/serene4444?tab=repositories)
 
-### 💼 View My Work  
-🔗 **Portfolio Website:** [link](https://serene4444.github.io/myPortfolio/)
+### Featured Projects
 
-📁 **GitHub Projects:**  
-- [IBM Data Science Capstone: SpaceX Launch Analysis](https://github.com/serene4444/Data-Science-Capstone)  
-- [HealthCert (Medical Appointment Booking)](https://github.com/serene4444/Medical-Appointment-Booking)
-- [House Price Prediction](https://github.com/serene4444/California-Housing-Price-Prediction)
-- [Predicting Stock Prices](https://github.com/serene4444/Prediciting-Stock-Prices)  
-- [COVID-19 Data Analysis Using Python](https://github.com/serene4444/COVID19-Data-Analysis-Using-Python)  
-- [GenAI Chatbots Project](https://github.com/serene4444/GenAI-Chatbots-Project)  
+- [IBM Data Science Capstone: SpaceX Launch Analysis](https://github.com/serene4444/Data-Science-Capstone)
+- [HealthCert](https://github.com/serene4444/Medical-Appointment-Booking) - medical appointment booking application
+- [California Housing Price Prediction](https://github.com/serene4444/California-Housing-Price-Prediction)
+- [Predicting Stock Prices](https://github.com/serene4444/Prediciting-Stock-Prices)
+- [COVID-19 Data Analysis Using Python](https://github.com/serene4444/COVID19-Data-Analysis-Using-Python)
+- [GenAI Chatbots Project](https://github.com/serene4444/GenAI-Chatbots-Project)
 - [Python Project for Data Science](https://github.com/serene4444/Python-Project-for-Data-Science)
 
-🗂️ **Explore more repositories:** [github.com/serene4444?tab=repositories](https://github.com/serene4444?tab=repositories)
+## Focus Areas
 
-### 💡 My Mission  
-As technology grows more automated, my goal is to **keep my voice authentic**. I don’t aim to be AI-perfect — I aim to be real. I want to build tools and systems that **enhance human experience**, not replace it.
+- Machine learning and deep learning fundamentals
+- Data analysis and applied Python development
+- Front-end development for portfolios and dashboards
+- Collaborative capstone and team-based project work
 
-### 📚 Currently Learning  
--  **Machine Learning Foundations**  
-  Preparing for upcoming Coursera courses in ML and deep learning, with a focus on applying Python, scikit-learn, and TensorFlow to real-world datasets.
+## Approach
 
-- **Capstone Project Building**  
-  Collaborating on group projects, applying what I’ve learned to build health and finance-related applications.
+My goal is to create work that is technically sound, user-centered, and authentic. I value clear communication, structured execution, and solutions that improve the user experience without losing a human perspective.
 
-- **Front-End Development Skills**  
-  Improving HTML/CSS structure, layout design, and basic interactivity for portfolio and dashboard interfaces.
+## Skills
 
-- Transitioning into **machine learning and deep learning** to build robust technical foundations  
-- Actively working on **group capstone projects** to practice collaboration and problem-solving
+- Programming languages: Python, C++, SQL, HTML/CSS, JavaScript
+- AI/ML tools: Scikit-learn, TensorFlow, Matplotlib, OpenAI API
+- Frameworks and platforms: Next.js, React, FastAPI, Jupyter Notebook, VS Code, IBM
+- Databases: SQL and relational database fundamentals
+- Tools: GitHub, Git, GitHub Actions, Plotly Dash, GitHub Copilot, Claude, ChatGPT
 
-### 🤝 Collaboration Style  
-I bring **creative energy, structure, and confidence** to any team I work with. I value:
-- Thoughtful communication  
-- Inclusive problem-solving  
-- Shared excitement in building something new  
+## Collaboration
 
-When I work with others, I want us to feel like **creators**, not just coders.
+I work best in environments that value thoughtful communication, inclusive problem-solving, and shared ownership of outcomes. I bring structure, creativity, and reliability to team projects.
 
-### 📫 Get in Touch  
-Email me at: **sereneplmr@gmail.com**  
-I’m always open to new connections and collaborations!
+## Contact
 
-### 🌿 Fun Fact  
-I’ve always had a deep love for nature. Hiking, listening to birds, and sitting near flowing water keeps me grounded and creatively inspired. **Nature is my reset button.**
+Email: [sereneplmr@gmail.com](mailto:sereneplmr@gmail.com)
 
----
+I am open to professional connections, collaboration opportunities, and project discussions.
 
-## 🌟 Skills
-
-- **Programming Languages:** Python, C++, SQL, HTML/CSS, JavaScript (basic)  
-- **Technologies:** GitHub Actions  
-- **AI/ML Tools:** Scikit-learn, TensorFlow, Matplotlib, OpenAI API  
-- **Frameworks & Platforms:** Next.js, React, FastAPI, Jupyter Notebook, VS Code, IBM  
-- **Databases:** Basic proficiency in SQL (relational databases) – experience with query writing, table creation, and data retrieval  
-- **Tools:** GitHub, Git, Plotly Dash, GitHub Copilot, Claude, ChatGPT
-
-## 🌟 GitHub Stats
+## GitHub Stats
 
 ![Serene's GitHub stats](https://github-readme-stats.vercel.app/api?username=serene4444&show_icons=true&theme=radical)
 
