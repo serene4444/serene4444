@@ -11,7 +11,7 @@ I am **Serene Plummer**, a Computer Science student at the University of North T
 </a>
 
 <a href="https://www.credly.com/badges/89d916ab-8d7e-4e4b-a9cd-f30786ea7ec0/public_url">
-  <img src="https://images.credly.com/images/73766691-3820-4351-93e1-873f15c79802/image.png" alt="Python Project for AI and Application Development" width="110">
+  <img src="https://github.com/user-attachments/assets/fec81cc7-e78d-433b-ae30-186422ec38fe" alt="Python Project for AI and Application Development" width="110">
 </a>
 
 
