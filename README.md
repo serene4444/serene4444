@@ -1,13 +1,9 @@
-<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/059731a2-6ae6-4b33-82cd-cd6e26475001" />## About Me
+## About Me
 
 I am **Serene Plummer**, a Computer Science student at the University of North Texas with interests in **software engineering, machine learning, and data analytics**. I am especially motivated by building practical technology that supports human creativity and thoughtful problem-solving.
 
 <a href="https://www.credly.com/badges/79f5a6d2-612e-4ef2-ae20-186168434e42/public_url">
   <img src="https://images.credly.com/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Applied Data Science Capstone" width="110">
-</a>
-
-<a href="https://www.credly.com/badges/22fd3e86-ea20-4354-83cf-39828b53f2df/public_url">
-  <img src="https://images.credly.com/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras" width="110">
 </a>
 
 <a href="https://www.credly.com/badges/22fd3e86-ea20-4354-83cf-39828b53f2df/public_url">
