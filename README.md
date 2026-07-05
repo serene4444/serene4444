@@ -1,6 +1,6 @@
 ## About Me
 
-I am **Serene Plummer**, a Computer Science student at the University of North Texas with interests in **software engineering, machine learning, and data analytics**. I am especially motivated by building practical technology that supports human creativity and thoughtful problem-solving.
+I am **Serene Plummer**, a Computer Science student at the University of North Texas with interests in **software engineering and machine learning**. I am especially motivated by building practical technology that supports human creativity and thoughtful problem-solving.
 
 <a href="https://www.credly.com/badges/79f5a6d2-612e-4ef2-ae20-186168434e42/public_url">
   <img src="https://images.credly.com/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Applied Data Science Capstone" width="110">
