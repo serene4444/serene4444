@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=react&rank_icon=github&border_radius=10
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true
+          options: username=${{ github.repository_owner }}&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
