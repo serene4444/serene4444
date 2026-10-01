@@ -8,7 +8,6 @@
 
 ## About Me
 
-<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
 Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered tools**: agents, RAG pipelines, and the cloud infrastructure that ships them. I'm pursuing my Bachelor's in Computer Science at the [University of North Texas](https://www.unt.edu/), and I'm growing toward **AI engineering** roles.
 
