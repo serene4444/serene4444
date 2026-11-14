@@ -8,16 +8,16 @@
 
 ## About Me
 
+I'm **Serene Plummer**, a Computer Science student at the [University of North Texas](https://www.unt.edu/) (graduating **Dec 2027**) who builds **AI agents, full-stack apps, and the cloud infrastructure that ships them**. I've built RAG + MCP agents at **Fidelity**, automate AWS with **Terraform** at **IDX Exchange**, and teach kids to code at **iCode School**. I'm growing toward **AI engineering** roles.
 
-Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered tools**: agents, RAG pipelines, and the cloud infrastructure that ships them. I'm pursuing my Bachelor's in Computer Science at the [University of North Texas](https://www.unt.edu/), and I'm growing toward **AI engineering** roles.
-
-🤖 **AI Agent Builder** whose RAG + MCP agents at Fidelity contributed to a **60% reduction in deployment cycles**  
-☁️ **Cloud Engineer** automating AWS infrastructure with **Terraform** and **GitHub Actions**  
+🤖 **AI Agent Builder**: RAG + MCP agents at Fidelity contributed to a **60% reduction in deployment cycles**
+☁️ **Cloud Engineer**: automating AWS infrastructure with **Terraform** and **GitHub Actions**
 🎓 **4.0 GPA** in Computer Science, and a **STEM & Coding Instructor** teaching AI and programming
 
-- 🔭 I'm currently building **Forma**, an AI resume optimizer
-- 🌱 I'm exploring **multi-agent systems**, **LLM evals**, and **MCP servers**
-- 👯 I'm looking to collaborate on AI engineering and developer-tooling projects
+- 🔭 Currently building **FieldKit**, a multi-agent support copilot on **Google ADK + Gemini**, and **Hype vs. Scandal**, an ML stock-strategy backtester
+- 📝 Also building **Forma**, an AI resume optimizer
+- 🌱 Exploring **multi-agent systems**, **LLM evals**, and **MCP servers**
+- 👯 Open to collaborating on AI engineering and developer-tooling projects
 - 💬 Ask me about AI agents, RAG, MCP, Python, Java, TypeScript, AWS, and Terraform
 
 ## 💼 Professional Experience
@@ -45,6 +45,41 @@ Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered too
 - 🧠 **Designed and delivered lessons** in AI concepts, prompt engineering, robotics, digital logic, and beginner programming
 - 📈 **Drove a 35% improvement in students' problem-solving skills** through individualized mentorship
 
+## 🚀 Featured Projects
+
+### 📈 Hype vs. Scandal - Stock Strategy Backtester · [Repo](https://github.com/serene4444/hype-scandal-backtest) · [Live Demo](https://serene4444.github.io/hype-scandal-backtest/)
+**Tech Stack:** React, TypeScript, Tailwind CSS, Python, FastAPI, Pandas, scikit-learn, Supabase, Claude API, GitHub Actions  
+- 📊 **Replays real Meta and Palantir prices** day by day to test ML trading rules against simple buy-and-hold
+- 🐒 **Benchmarks every rule against 1,000 random-trader baselines** to separate real skill from luck, with risk metrics
+- 🤖 **Explains each result in plain English with Claude**, backed by a scheduled data job and CI on GitHub Actions
+
+### 🧭 FieldKit - Multi-Agent Support Copilot · [Repo](https://github.com/serene4444/relay-adk-copilot)
+**Tech Stack:** Python, Google ADK, Gemini, RAG, MCP, Google Cloud Run, Secret Manager  
+- 🧩 **Coordinator agent routes each question to specialists**: a RAG agent over policy documents, a SQL agent over a legacy orders database, and a reviewer that checks every answer before it goes out
+- 🏷️ **Built for a realistic messy setup**: a fictional brand's policy docs plus a 10-year-old database with cryptic column names
+- ☁️ **Deploying to Google Cloud Run** with secrets managed in Secret Manager
+
+### 📝 Forma - AI Resume Optimizer *(In Development)* · [Repo](https://github.com/BonySage/Resume-Assistant)
+**Tech Stack:** React, TypeScript, AI integration, Prompt Engineering  
+- 🎯 **Analyzes resumes against job descriptions** to identify ATS compatibility gaps and missing keywords
+- ✨ **Generates AI-driven recommendations**, compatibility scores, and tailored bullet points
+- 💸 **Built as a cost-conscious alternative** to ATS tools charging about **$14/week ($728/year)**
+
+### ☁️ AWS Cloud Engineering Journey - IDX Exchange · [Repo](https://github.com/serene4444/IDX-Exchange-AWS-Cloud)
+**Tech Stack:** AWS (IAM, EC2, VPC), Amazon Linux 2023, Bash, Python, Flask  
+- 🔐 **Documented week-by-week build log** covering account security, IAM least privilege, EC2, and VPC networking
+- 🚀 **Deployed a Flask app to EC2** with a user-data bootstrap script, so it installs and starts on first boot with no manual setup
+
+### 🧪 More Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🌌 [Stellar Genesis](https://github.com/serene4444/Space-Clicker-Game-Design) · [Play](https://serene4444.github.io/Space-Clicker-Game-Design/) | Cinematic space clicker and progression game, designed Figma-first | React, TypeScript |
+| 💅 [Viva la Diva](https://github.com/serene4444/viva-la-diva) | A pink, chic page that shows who you follow on Instagram that doesn't follow you back | HTML, CSS, JavaScript |
+| 🏥 [HealthCert](https://github.com/serene4444/Medical-Appointment-Booking) · [Demo](https://serene4444.github.io/Medical-Appointment-Booking/) | Appointment booking and patient management with input validation | JavaScript, Node.js, Express.js |
+| 🛰️ [SpaceX Launch Analysis](https://github.com/serene4444/Data-Science-Capstone) | IBM Data Science capstone: predicts Falcon 9 landing success, with Folium maps and a Plotly Dash dashboard | Python, Pandas, scikit-learn |
+| ✈️ [AeroRouteSearch](https://github.com/serene4444/AeroRouteSearch) | Flight route search, plus [Dijkstra](https://github.com/serene4444/Shortest-Path-Finder-using-Dijkstra-s-Algorithm), [graph traversal](https://github.com/serene4444/Graph-Traversal-DFS-BFS-Connectivity-in-C-), and [hash table](https://github.com/serene4444/HashTable-Implementation) implementations | C++ |
+
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -57,6 +92,9 @@ Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered too
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -69,6 +107,11 @@ Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered too
 ![RAG](https://img.shields.io/badge/RAG-555555?style=for-the-badge)
 
 ### ⚙️ Backend & Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -76,6 +119,8 @@ Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered too
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
@@ -125,24 +170,6 @@ Hello! I'm **Serene Plummer**, a **Software Engineer** building **AI-powered too
 </table>
 
 </div>
-
-## 🚀 Featured Projects
-
-### 📝 Forma - AI Resume Optimizer *(In Development)* · [Repo](https://github.com/BonySage/Resume-Assistant)
-**Tech Stack:** React, TypeScript, AI integration, Prompt Engineering  
-- 🎯 **Analyzes resumes against job descriptions** to identify ATS compatibility gaps and missing keywords
-- ✨ **Generates AI-driven recommendations**, compatibility scores, and tailored bullet points
-- 💸 **Built as a cost-conscious alternative** to ATS tools charging about **$14/week ($728/year)**
-
-### 🏥 HealthCert - Medical Appointment Booking · [Repo](https://github.com/serene4444/Medical-Appointment-Booking) · [Live Demo](https://serene4444.github.io/Medical-Appointment-Booking/)
-**Tech Stack:** JavaScript, HTML5, CSS3, Node.js, Express.js  
-- 📅 **Centralized appointment booking** and patient management in a secure, user-friendly web app
-- ✅ **Validation logic** for consistent, accurate medication and patient data entry
-
-### 🚀 SpaceX Launch Analysis - IBM Data Science Capstone · [Repo](https://github.com/serene4444/Data-Science-Capstone)
-**Tech Stack:** Python, Pandas, scikit-learn, Folium, Plotly Dash  
-- 🛰️ **Predicted Falcon 9 first-stage landing success** using data collection, wrangling, and ML classification
-- 📊 **Built interactive Folium maps and a Plotly Dash dashboard** to explore launch sites and payload outcomes
 
 ## 🌟 Certifications & Badges
 
